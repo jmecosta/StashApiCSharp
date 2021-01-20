@@ -49,6 +49,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Entities\PullRequestSettings.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Entities\PullRequestStatus.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Entities\Ref.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Sizes.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Entities\Repository.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Entities\Self.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Entities\Tag.cs" />
